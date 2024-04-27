@@ -5,4 +5,4 @@
 
 읽으시다가 혹은 실제로 데이터분석하실때 느끼는 어려움 있으시면 편하게 말씀해주세요 ^^
 
-![KakaoTalk_Photo_2023-11-26-21-57-45-1](https://github.com/sangsucki/DataDrivenReport/assets/49624071/285e9a5f-5f24-4ebf-8f3f-def02d3505a4)
+<img width="288" alt="Screenshot 2024-04-27 at 16 35 08" src="https://github.com/citydataviz/BritishProfessor/assets/153987271/67001155-bc3b-4752-94de-fc18bdcefeea">
